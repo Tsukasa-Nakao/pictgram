@@ -63,3 +63,4 @@ gem 'capybara', '>= 2.15', '< 4.0'
   gem 'pry-stack_explorer'
   gem 'jquery-rails'
   gem 'bcrypt'
+  gem "carrierwave"
